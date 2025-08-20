@@ -108,7 +108,6 @@ st.markdown("""
     div[data-testid="stRadio"] > div{
         display: flex;
         flex-direction: row;
-        justify-content: center;
     }
     /* Make the actual button stretch */
     div[data-testid="stButton"] > button:first-child{
