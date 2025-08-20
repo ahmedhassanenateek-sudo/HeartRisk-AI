@@ -20,7 +20,6 @@ ENV/
 logs/
 
 # Model and data files
-*.pkl
 *.joblib
 *.h5
 *.model
