@@ -5,12 +5,6 @@ This project predicts the presence of **heart disease** in patients using **mach
 We apply **data preprocessing, feature engineering, dimensionality reduction, and multiple classification algorithms**, then evaluate and compare their performance.
 
 ---
-Perfect — you already deployed your model with **Streamlit** 🎉.
-We can extend your README to include a **Deployment Section** with the app link and usage instructions.
-
-Here’s the updated section for your README:
-
----
 
 ## 🚀 Deployment
 
