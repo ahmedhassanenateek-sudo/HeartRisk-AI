@@ -157,6 +157,9 @@ The following models were trained, tuned, and compared:
 * Highly sensitive to `max_depth`.
 
 ---
+<img width="1608" height="738" alt="image" src="https://github.com/user-attachments/assets/57fd5c9f-1c4b-49f0-87cb-6f52f5630787" />
+
+---
 
 ## 📊 Model Accuracy Comparison
 
