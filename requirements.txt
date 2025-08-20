@@ -3,4 +3,3 @@ streamlit-extras
 scikit-learn
 numpy
 pandas
-pickle
