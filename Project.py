@@ -21,12 +21,12 @@ col1, col2 = st.columns([5, 1])
 with col1:
     st.title("Heart Disease Risk Checkup")
 with col2:
-    st.image("images\heart.png", width=75)
+    st.image("images\\heart.png", width=75)
 col1, col2 = st.columns([2, 1])
 with col1:
     st.markdown("### Fill The Following Form for Diagnosis")
 with col2:
-    st.image("images\health-check.png", width=50)
+    st.image("images\\health-check.png", width=50)
 st.markdown("---")
 
 col1, col2= st.columns(2)
@@ -82,12 +82,12 @@ if(submitButton):
         Avoid Smoking and Alcohol 🚭🍷"
         '''
     if Prediction == 0:
-        img = "images\health.png"
+        img = "images\\health.png"
         text = "You Don't Have a Heart Issue"
         color = "#88E788"
         emoji = "✨"
     else:
-        img = "images\heart-attack.png"
+        img = "images\\heart-attack.png"
         text = "You May Have a Heart Issue"
         color = "#FF0000"
         emoji = "🚑"
